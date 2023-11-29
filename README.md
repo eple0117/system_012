@@ -1,2 +1,2 @@
-# shell_programming
-쉘 프로그래밍
+# system_programming_12
+시스템 프로그래밍 12조
